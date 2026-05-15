@@ -1,0 +1,90 @@
+.ttm-pf-single-content-wrapper-innerbox,
+.ttm-pf-single-content-wrapper {
+  position: relative;
+}
+.ttm-pf-single-content-wrapper-innerbox .ttm-horizontal_sep {
+  border-top: 1px solid rgba(255, 255, 255, 0.09);
+}
+.ttm-pf-single-content-wrapper {
+  margin-bottom: 42px;
+}
+.ttm-pf-single-detail-box .ttm-pf-detailbox-title {
+  position: relative;
+  font-size: 25px;
+  line-height: 33px;
+  margin-bottom: 6px;
+}
+.ttm-pf-view-top-image .ttm-pf-single-detail-box {
+  position: absolute;
+  padding: 40px 25px 43px 40px;
+  right: 25px;
+  bottom: -40px;
+  z-index: 2;
+  height: auto;
+}
+.ttm-pf-view-left-image .ttm-pf-single-detail-box .ttm-portfolio-title h2 {
+  position: relative;
+  font-size: 25px;
+  line-height: 30px;
+  padding: 0 30px 20px;
+  margin: 0 -30px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #fff;
+}
+.ttm-pf-view-left-image .ttm-pf-single-detail-box {
+  padding: 20px 30px 15px;
+}
+.ttm-bgcolor-grey.ttm-pf-single-detail-box ul li:not(:last-child) {
+  border-bottom: 1px solid #f0f0f0;
+}
+.ttm-pf-view-left-image .ttm-pf-single-detail-box ul li {
+  padding: 11px 0px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+}
+.ttm-pf-single-detail-box ul li .ttm-pf-data-title {
+  font-size: 17px;
+}
+.ttm-pf-single-detail-box ul li .ttm-pf-data-details {
+  color: #777777;
+}
+.ttm-pf-view-left-image .ttm-pf-single-detail-box ul li .ttm-pf-data-title {
+  font-weight: 500;
+  font-size: 15px;
+  margin-right: 10px;
+}
+.ttm-pf-view-left-image .ttm-pf-single-detail-box ul li .ttm-pf-data-details {
+  padding-left: 0;
+  font-size: 16px;
+  display: inline;
+  overflow: hidden;
+}
+.ttm-pf-single-content-area h2 {
+  text-align: left;
+  font-size: 30px;
+  line-height: 35px;
+}
+.ttm-pf-single-content-area .ttm-btn {
+  padding: 14px 24px;
+  text-transform: capitalize;
+  font-size: 15px;
+}
+.ttm-pf-single-content-area
+  .ttm-nextprev-bottom-nav
+  .ttm-btn.ttm-btn-style-border {
+  padding: 14px 28px;
+  border: 1px solid currentColor;
+}
+.ttm-nextprev-bottom-nav {
+  position: relative;
+  margin-top: 30px;
+  border-top: 1px solid rgba(255, 255, 255, 0.09);
+  padding-top: 40px;
+  margin-bottom: 0px;
+}

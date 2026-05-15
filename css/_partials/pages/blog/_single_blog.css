@@ -1,0 +1,57 @@
+.ttm-blog-single .ttm-blog-single-content {
+  padding: 8px 0px 30px;
+}
+.ttm-blog-single-content .post-meta {
+  margin-top: 20px;
+}
+.ttm-blog-single blockquote {
+  display: block;
+  padding: 38px 30px 15px 45px;
+  position: relative;
+  border-left: 5px solid;
+  color: #fff;
+  margin: 40px 0 45px 0;
+  font-size: 20px;
+  font-style: italic;
+  line-height: 30px;
+  min-height: 100px;
+  border-radius: 0;
+  z-index: 1;
+  border-color: #cda274;
+  background-color: #323232;
+}
+.ttm-blog-single blockquote .qoute-text {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  margin-bottom: 25px;
+}
+.ttm-blog-single blockquote:after {
+  content: "";
+  background-color: #cda274;
+  -webkit-mask-box-image: url(/images/quote.svg);
+  mask: url(/images/quote.svg) no-repeat 100% 100%;
+  -webkit-mask-size: cover;
+  mask-size: cover;
+  position: absolute;
+  width: 50px;
+  height: 38px;
+  transform: rotateZ(180deg);
+  top: 25px;
+  left: 25px;
+  opacity: 0.5;
+  z-index: -1;
+}
+.ttm-blog-single h4 {
+  font-size: 24px;
+  line-height: 28px;
+}
+.ttm-blog-single .social-media-block {
+  margin-top: 40px;
+  padding-top: 20px;
+  width: 100%;
+  border-top: 1px solid rgba(255, 255, 255, 0.09);
+}
+.ttm-blog-single .social-media-block .ttm-btn.ttm-btn-size-sm {
+  font-size: 14px;
+}

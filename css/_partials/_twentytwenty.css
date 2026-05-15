@@ -1,0 +1,24 @@
+.twentytwenty-horizontal .twentytwenty-before-label,
+.twentytwenty-horizontal .twentytwenty-after-label {
+  left: 20%;
+  bottom: 0;
+  max-width: 50%;
+  padding: 9px 30px;
+  background-color: #fff;
+  color: #cda274;
+  font-size: 15px;
+  font-weight: 700;
+  border-radius: 0;
+  opacity: 0;
+}
+.twentytwenty-horizontal:hover .twentytwenty-before-label,
+.twentytwenty-horizontal:hover .twentytwenty-after-label {
+  opacity: 0;
+}
+
+.twentytwenty-horizontal .twentytwenty-after-label {
+  right: 20%;
+  left: auto;
+  background-color: #101010;
+  color: #fff;
+}

@@ -1,0 +1,82 @@
+.ttm-team-member-single-content h3,
+.ttm-team-member-content-about h3 {
+  text-align: left;
+  font-size: 30px;
+  line-height: 40px;
+  margin-bottom: 25px;
+}
+.ttm-team-member-content .ttm-team-member-single-title {
+  font-size: 30px;
+  line-height: 40px;
+  margin-bottom: 0;
+}
+.ttm-team-member-content .ttm-team-details-list li {
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  display: block;
+  float: left;
+  padding: 8px 0 10px 0;
+}
+.ttm-team-member-content .social-icons.square li a {
+  border: 1px solid rgba(255, 255, 255, 0.6);
+}
+.ttm-team-member-content .ttm-team-details-wrapper {
+  padding: 23px 0 25px 0;
+  position: relative;
+}
+.ttm-team-member-content .ttm-team-details-list .ttm-team-list-title {
+  text-indent: 0;
+  width: auto;
+  display: inline;
+  font-size: 16px;
+  color: #fff;
+}
+.ttm-team-member-content .ttm-team-details-list .ttm-team-list-value {
+  display: inline;
+}
+.ttm-team-member-content .ttm-team-member-single-position {
+  font-size: 16px;
+  margin-bottom: 20px;
+  display: block;
+}
+.ttm-team-details-list {
+  margin: 0;
+  padding: 0;
+}
+.ttm-team-details-list li {
+  list-style: square;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  padding: 8px 0 25px 15px;
+  display: inline-block;
+  width: calc(48% - 1px);
+}
+.ttm-team-details-list li:before {
+  content: "";
+  position: absolute;
+  top: 18px;
+  left: 0;
+  height: 6px;
+  width: 6px;
+}
+.ttm-team-details-list .ttm-team-list-title {
+  margin-right: 3px;
+  position: relative;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+}
+.ttm-team-member-single-content .ttm-social-links-wrapper ul li a {
+  display: block;
+  font-size: 14px;
+  width: 38px;
+  height: 38px;
+  text-align: center;
+  line-height: 38px;
+  border: 1px solid #e4e4e4;
+  border-radius: 50%;
+  margin-right: 0;
+  color: inherit;
+}

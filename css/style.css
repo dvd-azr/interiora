@@ -1,0 +1,23 @@
+/*  */
+@import url("../libs/css/bootstrap.min.css");
+@import url("../libs/css/animate.css");
+/* Fonts */
+@import url("../libs/css/flaticon.css");
+@import url("../libs/css/font-awesome.css");
+@import url("../libs/css/CerebriSans.css");
+@import url("../libs/css/themify-icons.css");
+@import url("../libs/css/slick.css");
+/* @import url("../libs/css/prettyPhoto.css"); */
+@import url("../libs/css/twentytwenty.css");
+@import url("../libs/revolution/css/rs6.css");
+
+/* Template */
+@import url("./shortcodes.css");
+@import url("./main.css");
+@import url("./megamenu.css");
+@import url("./responsive.css");
+@import url("./custom.css");
+
+body {
+  background: #000;
+}

@@ -1,0 +1,85 @@
+.comments-area {
+  padding-top: 35px;
+  margin-bottom: 0;
+}
+.comments-area h2 {
+  font-size: 28px;
+  line-height: 34px;
+  margin-bottom: 15px;
+}
+.comment-list .children {
+  margin-left: 35px;
+}
+.single-post .comments-area {
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+.single-post .comments-area .comments-title {
+  font-size: 33px;
+  font-weight: 600;
+}
+.comment-body:after {
+  content: "";
+  position: absolute;
+  top: 25px;
+  left: -18px;
+  width: 0;
+  height: 0;
+  border-top: 18px solid transparent;
+  border-bottom: 18px solid transparent;
+  border-right: 18px solid;
+}
+.single article.post .comment-body p {
+  margin-top: 10px;
+}
+.comment-list a.comment-reply-link {
+  border: none;
+  color: #fff;
+  font-size: 13px;
+  padding: 4px 30px 2px 17px;
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  -moz-transition: all 0.3s ease-in-out 0s;
+  -ms-transition: all 0.3s ease-in-out 0s;
+  -o-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
+.comment-list a.comment-reply-link:after {
+  position: absolute;
+  top: 6px;
+  font-family: "themify";
+  content: "\e649";
+  font-weight: 400;
+  display: inline-block;
+  margin-right: 0.2em;
+  text-align: center;
+  opacity: 1;
+  line-height: 20px;
+  font-size: 10px;
+  margin-left: 6px;
+}
+.comments-area .comment-respond {
+  padding-top: 20px;
+}
+.comment-form textarea,
+.comment-form input[type="text"],
+.comment-form input[type="email"],
+.comment-form input[type="url"] {
+  background-color: transparent;
+  font-size: 14px;
+  padding: 9px 15px;
+  border-radius: 0;
+}
+.comments-area .comment-form .comment-form-author,
+.comments-area .comment-form .comment-form-email,
+.comments-area .comment-form .comment-form-url {
+  position: relative;
+  float: left;
+  width: 32%;
+  margin-right: 2%;
+}
+.comments-area .comment-form .comment-form-url {
+  margin-right: 0;
+}

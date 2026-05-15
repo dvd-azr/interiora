@@ -1,0 +1,41 @@
+.ttm-page-title-row {
+  background: url(/images/pagetitle-bg.jpg);
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  z-index: 1;
+}
+.ttm-page-title-row-inner {
+  width: 100%;
+  padding: 175px 0 125px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.47);
+}
+.page-title-heading h2 {
+  font-weight: 700;
+  text-transform: capitalize;
+  font-size: 49px;
+  line-height: 59px;
+  margin-bottom: 10px;
+}
+.breadcrumb-wrapper {
+  position: absolute;
+  bottom: -125px;
+  text-align: left;
+}
+.breadcrumb-wrapper .container {
+  padding: 0;
+}
+.breadcrumb-wrapper .breadcrumb-wrapper-inner {
+  background-color: #323232;
+  padding: 14px 15px;
+  line-height: 20px;
+  display: inline-block;
+}
+.breadcrumb-wrapper a,
+.breadcrumb-wrapper span {
+  text-transform: capitalize;
+  font-size: 15px;
+  line-height: 20px;
+}

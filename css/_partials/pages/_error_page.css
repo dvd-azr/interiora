@@ -1,0 +1,33 @@
+.error-404 {
+  position: relative;
+}
+.page-header {
+  border-bottom: none;
+  margin: 0;
+  padding-bottom: 9px;
+}
+section.error-404 {
+  padding: 215px 0 160px;
+  background-image: url(/images/error-bg.jpg);
+  background-position: center top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+section.error-404 h3 {
+  font-size: 60px;
+  line-height: 60px;
+  color: #232323;
+}
+section.error-404 h2 {
+  font-size: 220px;
+  line-height: 100%;
+  margin-bottom: 2px;
+  color: #232323;
+}
+section.error-404 .page-content p {
+  font-size: 20px;
+  margin-bottom: 40px;
+  color: #323232;
+  font-weight: 700;
+}

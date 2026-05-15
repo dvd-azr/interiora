@@ -1,0 +1,629 @@
+/** 1.Skin-color **/
+.ttm-textcolor-skincolor,
+.ttm-textcolor-skincolor h1,
+.ttm-bgcolor-darkgrey .ttm-textcolor-skincolor h1,
+.ttm-textcolor-skincolor h2,
+.ttm-bgcolor-darkgrey .ttm-textcolor-skincolor h2,
+.ttm-textcolor-skincolor h3,
+.ttm-bgcolor-darkgrey .ttm-textcolor-skincolor h3,
+.ttm-textcolor-skincolor h4,
+.ttm-bgcolor-darkgrey .ttm-textcolor-skincolor h4,
+.ttm-textcolor-skincolor h5,
+.ttm-bgcolor-darkgrey .ttm-textcolor-skincolor h5,
+.ttm-textcolor-skincolor h6,
+.ttm-bgcolor-darkgrey .ttm-textcolor-skincolor h6,
+.ttm-textcolor-skincolor a,
+.ttm-textcolor-skincolor i,
+:not(.ttm-bgcolor-darkgrey) .ttm-textcolor-skincolor a,
+:not(.ttm-bgcolor-darkgrey) .ttm-textcolor-skincolor i,
+:not(.ttm-bgcolor-darkgrey) .ttm-textcolor-skincolor a,
+:not(.ttm-bgcolor-darkgrey) .ttm-textcolor-skincolor i,
+nav.main-menu ul.menu li ul.mega-submenu li a:hover,
+a.ttm-textcolor-skincolor,
+:not(.ttm-bgcolor-darkgrey) a.ttm-textcolor-skincolor,
+i.ttm-textcolor-skincolor,
+:not(.ttm-bgcolor-darkgrey) i.ttm-textcolor-skincolor,
+:not(.ttm-bgcolor-darkgrey) .ttm-textcolor-skincolor,
+.ttm-bgcolor-darkgrey a:hover,
+.ttm-textcolor-white a:hover,
+.ttm-bgcolor-darkgrey a:hover i,
+.ttm-btn-color-skincolor,
+.ttm-btn-style-border.ttm-btn-color-skincolor,
+.ttm-bgcolor-darkgrey .ttm-btn-color-skincolor,
+.ttm-bgcolor-darkgrey .ttm-btn-color-skincolor i,
+.ttm-bgcolor-grey .ttm-btn-color-skincolor,
+.ttm-bgcolor-grey .ttm-btn-color-skincolor i,
+.ttm-list-icon-color-skincolor li i,
+.section-title h3,
+.top_bar_contact_item .top_bar_icon i,
+.featured-imagebox-portfolio.style5 .featured-content .featured-desc p,
+.ttm-icon_element-border.ttm-icon_element-color-skincolor,
+.ttm-icon_element-border.ttm-icon_element-color-grey,
+.ttm-icon_element-fill.ttm-icon_element-color-white,
+.header_search a:hover,
+.testimonials.style1:hover .testimonial-caption h3,
+.ttm-icon_element-fill.ttm-icon_element-color-white i,
+.ttm-icon_element-color-skincolor,
+.ttm-tabs.ttm-tab-style-01 ul.tabs li.active a,
+.ttm-icon_element-color-skincolor:not(.ttm-icon_element-fill) i,
+.ttm-bgcolor-darkgrey .ttm-icon_element-color-skincolor i,
+nav.main-menu ul.menu > li.mega-menu-item:hover > a,
+.first-footer .newsletter-form p button:hover,
+.widget ul#menu-footer-service-link li a:hover,
+.header_cart:hover .cart_icon i,
+nav.main-menu ul.menu li > ul.mega-submenu li a:hover,
+nav.main-menu ul.menu li ul.mega-submenu li.active > a,
+.featured-imagebox-portfolio.style3 .ttm-footer a:hover,
+.ttm-header-style-03 #site-header-menu .site-navigation ul.menu > li > a:hover,
+.ttm-header-style-03 #site-header-menu .site-navigation ul.menu > li.active > a,
+nav.main-menu ul.menu li.active > a,
+.featured-icon-box.style4:hover .ttm-num,
+.ttm-header-style-01 .top_bar .top_bar_contact_item .top_bar_icon i,
+.widget_info .social-icons ul li a:hover,
+.ttm-pf-single-detail-box .ttm-pf-detailbox-title,
+.ttm-header-style-01
+  .ttm-bgcolor-white.site-header-menu-inner
+  nav.main-menu
+  ul.menu
+  > li.active
+  > a,
+.widget_info .widget_icon i,
+a:hover,
+.ttm-bgcolor-darkgrey a:hover,
+.ttm-bgcolor-darkgrey .slick_slider.slick-arrows-style3 .slick-arrow:hover,
+.ttm-bgcolor-skincolor .slick_slider.slick-arrows-style3 .slick-arrow:hover,
+.featured-imagebox-portfolio.style3 .featured-title h3 a:hover,
+.featured-imagebox-portfolio.style5 .featured-title h3 a:hover,
+.featured-imagebox-portfolio.style1 .featured-title h3:hover,
+.featured-imagebox-portfolio.style4
+  .ttm-footer
+  .ttm-btn.ttm-btn-color-darkgrey:hover,
+.featured-imagebox-portfolio.style1 .featured-title h3:hover a,
+.featured-imagebox-portfolio.style2 .featured-title h3:hover,
+.featured-imagebox-portfolio.style2 .featured-title h3:hover a,
+.featured-imagebox-post.style1 .featured-content .featured-title h3 a:hover,
+.widget ul#menu-footer-service-link li a:before,
+.tmtheme_fbar_icons:hover i,
+.widget ul#menu-footer-service-link li a:hover:before,
+.ttm-p_table-amount,
+.breadcrumb-wrapper span i,
+.ttm-page-title-row .breadcrumb-wrapper span,
+.ttm-blog-single blockquote cite,
+.coupon_toggle .coupon_code:before,
+#payment .payment_box:before {
+  color: #cda274;
+}
+
+/** Skin-bg-color **/
+.ttm-bgcolor-skincolor,
+.ttm-bgcolor-skincolor > .ttm-bg-layer,
+.ttm-bgcolor-skincolor > .ttm-bg-layer > .ttm-col-wrapper-bg-layer-inner,
+#site-header-menu .site-navigation .sep-img,
+.ttm-icon_element-fill.ttm-icon_element-color-skincolor,
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-dark:not(.btn-inline):hover,
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-dark:not(.btn-inline):hover,
+.ttm-bgcolor-darkgrey .ttm-btn.ttm-btn-style-fill.ttm-btn-color-grey:hover,
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:hover,
+.social-media-block
+  .ttm-btn-shape-squar.ttm-btn-style-fill.ttm-btn-color-grey:hover,
+.ttm-bgcolor-darkgrey
+  .ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:not(.btn-inline):hover,
+.ttm-bgcolor-darkgrey
+  .ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:not(.btn-inline):hover,
+.ttm-bgcolor-grey .tooltip:after,
+.ttm-bgcolor-grey [data-tooltip]:after,
+.ttm-bgcolor-darkgrey .tooltip:after,
+.ttm-bgcolor-darkgrey [data-tooltip]:after,
+.ttm-textcolor-skincolor .tooltip:after,
+.ttm-textcolor-skincolor [data-tooltip]:after,
+.slick_slider.slick-dots-style1 .slick-dots li.slick-active button,
+.slick_slider.slick-dots-style2 .slick-dots li.slick-active button,
+.slick_slider.slick-arrows-style3 .slick-arrow:hover,
+.featured-imagebox-post.style1 .ttm-postbox-desc-footer .ttm-btn:hover,
+.featured-imagebox-portfolio.style1:hover .ttm-footer a,
+.slick_slider.slick-arrows-style4 .slick-arrow:hover,
+.slick_slider.slick-arrows-style1 .slick-prev:hover,
+.slick_slider.slick-arrows-style1 .slick-next:hover,
+.section-title h3:before,
+.section-title h3:after,
+.header_cart .cart_count,
+.heading-seperator span:before,
+.footer .social-icons li > a:hover,
+.social-icons.circle li > a:hover,
+.ttm-underline-strong:before,
+.tm_coverimgbox_wrapper .featured-content .featured-title h3:after,
+.ttm-tabs.ttm-tab-style-02 ul.tabs li.active a,
+.ttm-tabs.ttm-tab-style-02 ul.tabs li:hover a,
+.featured-imagebox-post.style2:hover .ttm-box-post-date,
+.ttm-btn-style-fill.ttm-btn-color-skincolor,
+.ttm-btn-color-skincolor,
+.featured-imagebox-portfolio.style2 .ttm-media-link a,
+.ttm-play-icon-btn .ttm-play-icon-animation:before,
+.ttm-play-icon-btn .ttm-play-icon-animation:after,
+.featured-imagebox-team.style1 .featured-content:before,
+.widget.widget-nav-menu ul li a:before,
+.ttm-btn.btn-inline.ttm-btn-color-darkgrey:hover,
+.widget.widget-download ul li i,
+.social-icons.square li a:hover,
+.testimonials.style1:hover .testimonial-content:before,
+.testimonials.style1:hover:after,
+.ttm-btn-style-border.ttm-btn-color-skincolor:hover,
+.sidebar .widget .widget-title:before,
+.widget .tagcloud a:hover,
+.product .onsale,
+.first-footer .newsletter-form button[type="submit"],
+.product:hover .ttm-shop-icon .product-btn:hover,
+.ttm-single-product-details ul.tabs li a:before,
+.pagination-block .page-numbers:hover,
+.pagination-block .page-numbers.current,
+#totop.top-visible {
+  background-color: #cda274;
+}
+
+/** Skin-border-color **/
+.ttm-btn-style-border.ttm-btn-color-skincolor,
+.ttm-bgcolor-darkgrey
+  .ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:not(.btn-inline):hover,
+.ttm-icon.ttm-icon_element-border.ttm-icon_element-color-skincolor,
+.slick_slider.slick-arrows-style3 .slick-arrow:hover,
+.featured-icon-box.icon-align-top-content.style1 a.di_link:hover,
+.social-icons.circle li > a:hover,
+.widget_info .social-icons ul li a:hover,
+.featured-imagebox-portfolio.style4 .ttm-footer a,
+.featured-imagebox-portfolio.style4 .ttm-footer a:hover,
+.featured-imagebox-portfolio.style4
+  .ttm-btn.ttm-btn-style-border.ttm-btn-color-darkgrey:hover:before,
+.featured-imagebox-portfolio.style4
+  .ttm-btn.ttm-btn-style-border.ttm-btn-color-darkgrey:hover:after,
+.rs-layer.ttm-btn:hover:before,
+.ttm-team-member-content .social-icons.square li a:hover,
+.featured-imagebox-post.style1 .ttm-postbox-desc-footer .ttm-btn:before,
+.featured-imagebox-post.style1 .ttm-postbox-desc-footer .ttm-btn:after,
+.featured-imagebox-portfolio.style1:hover .ttm-btn:before,
+.featured-imagebox-portfolio.style1:hover .ttm-btn:after,
+.ttm-btn-style-border.ttm-btn-color-skincolor:hover:before,
+.ttm-btn-style-border.ttm-btn-color-skincolor:hover:after,
+.rs-layer.ttm-btn:hover:after,
+nav.main-menu.show,
+.ttm-btn-style-fill.ttm-btn-color-skincolor:before,
+.social-icons.square li a:hover,
+.ttm-btn-style-fill.ttm-btn-color-skincolor:after,
+.featured-icon-box.style4:hover .ttm-num,
+:not(.ttm-bgcolor-darkgrey) .ttm-textcolor-skincolor a,
+:not(.ttm-bgcolor-darkgrey) .ttm-textcolor-skincolor i,
+:not(.ttm-bgcolor-darkgrey) .ttm-textcolor-skincolor a,
+:not(.ttm-bgcolor-darkgrey) .ttm-textcolor-skincolor i,
+.testimonials-nav
+  .slick-current.testimonial-author_info
+  .testimonial-avatar
+  img,
+.widget .tagcloud a:hover {
+  border-color: #cda274;
+}
+
+.ttm-bgcolor-darkgrey .tooltip-top:before,
+.ttm-bgcolor-darkgrey .tooltip:before,
+.ttm-textcolor-skincolor .tooltip-top:before,
+.ttm-textcolor-skincolor .tooltip:before,
+.ttm-bgcolor-grey .tooltip-top:before,
+.ttm-bgcolor-grey .tooltip:before,
+.ttm-bgcolor-grey [data-tooltip]:before,
+.header_search .header_search_content,
+nav.main-menu,
+.ttm-tabs.ttm-tab-style-01 ul.tabs li.active a:before,
+article.ttm-blog-classic,
+#payment .payment_box,
+.coupon_toggle .coupon_code {
+  border-top-color: #cda274;
+}
+
+.ttm-bgcolor-darkgrey .tooltip-bottom:before,
+.featured-icon-box.style3:before,
+.ttm-tabs.ttm-tab-style-01 ul.tabs li.active,
+.ttm-tabs.ttm-tab-style-01 ul.tabs li.active:after,
+.header_search .header_search_content:before {
+  border-bottom-color: #cda274;
+}
+
+/** 2.Darkgrey-color **/
+.ttm-textcolor-darkgrey,
+.ttm-textcolor-darkgrey p,
+:not(.ttm-bgcolor-darkgrey) .ttm-textcolor-darkgrey h1,
+:not(.ttm-bgcolor-darkgrey) .ttm-textcolor-darkgrey h2,
+:not(.ttm-bgcolor-darkgrey) .ttm-textcolor-darkgrey h3,
+:not(.ttm-bgcolor-darkgrey) .ttm-textcolor-darkgrey h4,
+:not(.ttm-bgcolor-darkgrey) .ttm-textcolor-darkgrey h5,
+:not(.ttm-bgcolor-darkgrey) .ttm-textcolor-darkgrey h6,
+:not(.ttm-bgcolor-darkgrey) .ttm-textcolor-darkgrey p,
+:not(.ttm-bgcolor-skincolor) .ttm-textcolor-darkgrey span,
+.ttm-bgcolor-skincolor .ttm-bgcolor-white h1,
+.ttm-bgcolor-darkgrey .ttm-bgcolor-white h1,
+.ttm-bgcolor-skincolor .ttm-bgcolor-white h2,
+.ttm-bgcolor-darkgrey .ttm-bgcolor-white h2,
+.ttm-bgcolor-skincolor .ttm-bgcolor-white h3,
+.ttm-bgcolor-darkgrey .ttm-bgcolor-white h3,
+.ttm-bgcolor-skincolor .ttm-bgcolor-white h4,
+.ttm-bgcolor-darkgrey .ttm-bgcolor-white h4,
+.ttm-bgcolor-skincolor .ttm-bgcolor-white h5,
+.ttm-bgcolor-darkgrey .ttm-bgcolor-white h5,
+.ttm-bgcolor-skincolor .ttm-bgcolor-white h6,
+.ttm-bgcolor-darkgrey .ttm-bgcolor-white h6,
+.ttm-bgcolor-skincolor .ttm-bgcolor-white a,
+.ttm-bgcolor-darkgrey .ttm-bgcolor-white a,
+.ttm-bgcolor-skincolor .ttm-bgcolor-white p,
+.ttm-bgcolor-darkgrey .ttm-bgcolor-white p,
+.ttm-icon.ttm-icon_element-border.ttm-icon_element-color-darkgrey,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-dark:hover,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-white:hover,
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-white,
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-white i,
+.ttm-textcolor-white .ttm-btn.ttm-btn-style-fill.ttm-btn-color-skincolor:hover,
+.ttm-btn-color-dark,
+.ttm-bgcolor-skincolor .ttm-btn.ttm-btn-style-fill.ttm-btn-color-white,
+.ttm-bgcolor-darkgrey .ttm-btn.ttm-btn-style-fill.ttm-btn-color-white,
+.ttm-bgcolor-skincolor
+  .row
+  > [class*="col-"]
+  :not(.ttm-bgcolor-white)
+  a.ttm-btn.ttm-btn-style-fill.ttm-btn-color-white,
+.ttm-bgcolor-skincolor
+  .row
+  > [class*="col-"]
+  :not(.ttm-bgcolor-white)
+  a.ttm-btn.ttm-btn-style-fill.ttm-btn-color-white,
+.ttm-btn-style-fill.ttm-btn-color-white,
+.ttm-btn-style-fill.ttm-btn-color-white i,
+.ttm-header-style-03
+  .ttm-bgcolor-white.site-header-menu-inner
+  nav.main-menu
+  ul.menu
+  > li
+  > a,
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-grey i,
+nav.main-menu ul.menu li ul.mega-submenu li a,
+.ttm-btn.ttm-btn-style-border.ttm-btn-shape-squar.ttm-btn.ttm-btn-color-grey:hover,
+.ttm-bgcolor-skincolor .ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:hover,
+.ttm-bgcolor-darkgrey .ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:hover,
+.ttm-bgcolor-skincolor .ttm-btn.ttm-btn-style-border.ttm-btn-color-white:hover,
+.ttm-bgcolor-darkgrey .ttm-btn.ttm-btn-style-border.ttm-btn-color-white:hover,
+.ttm-bgcolor-darkgrey .ttm-btn.ttm-btn-style-fill.ttm-btn-color-grey:hover,
+.ttm-bgcolor-darkgrey .ttm-btn.ttm-btn-style-border.ttm-btn-color-grey:hover,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-white:not(.btn-inline):hover,
+.ttm-icon_element-color-darkgrey,
+:not(.ttm-bgcolor-darkgrey) .ttm-textcolor-darkgrey > i,
+.ttm-icon_element-color-darkgrey:not(.ttm-icon_element-fill) i,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-white:not(.btn-inline):hover,
+.ttm-bgcolor-white .featured-icon-box.style2 .featured-title h3,
+.ttm-bgcolor-white .header_search a,
+.ttm-bgcolor-white .header_cart .button-cart,
+.ttm-bgcolor-skincolor .ttm-bgcolor-white .section-title h2.title,
+.ttm-bgcolor-darkgrey .ttm-bgcolor-white .section-title h2.title {
+  color: #323232;
+}
+
+/** DarkGrey-bg-color **/
+.ttm-bgcolor-darkgrey,
+.ttm-bgcolor-darkgrey > .ttm-bg-layer,
+.ttm-bgcolor-darkgrey > .ttm-bg-layer > .ttm-col-wrapper-bg-layer-inner,
+.ttm-bgcolor-skincolor .tooltip:after,
+.ttm-bgcolor-skincolor [data-tooltip]:after,
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-dark,
+.tooltip:after,
+[data-tooltip]:after,
+.ttm-icon_element-fill.ttm-icon_element-color-darkgrey,
+.ttm-highlight-fid-style1,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-grey:not(.btn-inline):hover,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-grey:not(.btn-inline):hover,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-dark:not(.btn-inline):hover,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-dark:not(.btn-inline):hover,
+.ttm-bgcolor-skincolor
+  .ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:not(.btn-inline):hover,
+.ttm-bgcolor-skincolor
+  .ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:not(.btn-inline):hover,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-darkgrey:hover,
+.ttm-btn.btn-inline.ttm-btn-color-darkgrey,
+.ttm-btn-style-fill.ttm-btn-color-grey,
+.ttm-bgcolor-skincolor .ttm-bgcolor-grey,
+.sidebar .widget-area .widget,
+.ttm-progress-bar .progress-bar.progress-bar-color-bar_darkgrey,
+.ttm-progress-bar
+  .progress-bar-inner
+  .progress-bar.progress-bar-color-bar_darkgrey:before,
+.featured-imagebox-portfolio.style2 .ttm-portfolio-box-view-overlay:after,
+.featured-imagebox-portfolio.style2 .ttm-portfolio-box-view-overlay:before,
+.product:hover .ttm-shop-icon .product-btn {
+  background-color: #323232;
+}
+.header_cart:hover .cart_count {
+  background-color: #1a1d22;
+}
+
+.ttm-bgcolor-skincolor .ttm-bgcolor-white i {
+  color: #181818;
+}
+.ttm-icon.ttm-icon_element-border.ttm-icon_element-color-darkgrey,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-dark,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-dark:hover,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-darkgrey:hover,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-darkgrey:hover:before,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-darkgrey:hover:after,
+.ttm-bgcolor-skincolor
+  .row
+  > [class*="col-"]
+  :not(.ttm-bgcolor-white)
+  a.ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:hover,
+.ttm-bgcolor-skincolor
+  .row
+  > [class*="col-"]
+  :not(.ttm-bgcolor-white)
+  a.ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:hover,
+.tooltip-top:before,
+.tooltip:before,
+[data-tooltip]:before {
+  border-color: #323232;
+}
+
+.ttm-bgcolor-skincolor .tooltip-top:before,
+.ttm-bgcolor-skincolor .tooltip:before,
+.ttm-bgcolor-skincolor [data-tooltip]:before,
+.tooltip-top:before,
+.tooltip:before,
+[data-tooltip]:before {
+  border-top-color: #323232;
+}
+
+/** 3.White-color **/
+.ttm-textcolor-white,
+.ttm-bgcolor-skincolor a,
+.ttm-textcolor-white a,
+.ttm-btn-color-white,
+.ttm-icon_element-color-white,
+.ttm-icon_element-color-white i,
+.ttm-bgcolor-skincolor i,
+.ttm-bgcolor-darkgrey i,
+.ttm-bgcolor-darkgrey i,
+.ttm-textcolor-white h1,
+.ttm-bgcolor-skincolor h1,
+.ttm-bgcolor-darkgrey h1,
+.ttm-textcolor-white h2,
+.ttm-bgcolor-skincolor h2,
+.ttm-bgcolor-darkgrey h2,
+.ttm-textcolor-white h3,
+.ttm-bgcolor-skincolor h3,
+.ttm-textcolor-white h4,
+.ttm-bgcolor-skincolor h4,
+.ttm-bgcolor-darkgrey h4,
+.ttm-textcolor-white h5,
+.ttm-bgcolor-skincolor h5,
+.ttm-bgcolor-darkgrey h5,
+.ttm-textcolor-white h6,
+.ttm-bgcolor-skincolor h6,
+.ttm-bgcolor-darkgrey h6,
+.ttm-textcolor-white a,
+.first-footer .newsletter-form button[type="submit"],
+.ttm-textcolor-white span,
+.ttm-bgcolor-skincolor span,
+:not(.ttm-bgcolor-skincolor)
+  .ttm-textcolor-white
+  span:not(.ttm-textcolor-skincolor),
+.ttm-textcolor-white .ttm-social-links-wrapper ul li a,
+.ttm-icon_element-fill.ttm-icon_element-color-skincolor,
+.ttm-icon_element-fill.ttm-icon_element-color-skincolor i,
+.ttm-icon_element-fill.ttm-icon_element-color-darkgrey,
+.ttm-icon_element-fill.ttm-icon_element-color-darkgrey i,
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-dark,
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-dark i,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-dark:hover i,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-dark:hover,
+.ttm-bgcolor-darkgrey
+  .ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:not(.btn-inline):hover,
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-grey:hover,
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:hover,
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:hover i,
+.ttm-bgcolor-darkgrey .ttm-btn.ttm-btn-style-fill.ttm-btn-color-grey:hover,
+.ttm-bgcolor-darkgrey .ttm-btn.ttm-btn-style-fill.ttm-btn-color-grey:hover i,
+.ttm-bgcolor-darkgrey .ttm-btn-color-skincolor:hover,
+.ttm-bgcolor-darkgrey .ttm-btn-color-skincolor:hover i,
+.ttm-bgcolor-skincolor
+  .row
+  > [class*="col-"]
+  :not(.ttm-bgcolor-white)
+  .ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:hover,
+.ttm-bgcolor-skincolor
+  .row
+  > [class*="col-"]
+  :not(.ttm-bgcolor-white)
+  .ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:hover,
+.ttm-icon.ttm-icon_element-fill.ttm-icon_element-color-darkgrey i,
+.ttm-bgcolor-skincolor .section-title h2.title,
+.footer .widget .widget-title,
+.widget ul#menu-footer-service-link li a,
+.widget ul#menu-footer-service-link li a:before,
+.ttm-bgcolor-darkgrey .section-title h2.title,
+.ttm-btn-style-fill.ttm-btn-color-skincolor,
+.featured-imagebox-portfolio.style3 .ttm-footer a,
+.featured-imagebox-portfolio.style3 .featured-title h3 a,
+.social-icons.circle li > a:hover,
+.social-icons.circle li > a:hover i,
+.featured-imagebox-portfolio.style2:hover .ttm-footer a,
+.first-footer h3,
+.social-icons.square li a:hover,
+.widget.widget-nav-menu ul li a:hover,
+.featured-imagebox-post.style1 .ttm-postbox-desc-footer .ttm-btn:hover,
+.featured-imagebox-portfolio.style1:hover .ttm-footer a,
+.tm_coverimgbox_wrapper
+  .ttm-footer
+  .ttm-btn.ttm-btn-style-border.ttm-btn-color-white:hover,
+.ttm-pf-single-content-wrapper .ttm-social-share-links ul li a:hover i,
+.widget.widget-nav-menu ul li.active a,
+.featured-title h3,
+.copyright a,
+.tm_coverimgbox_wrapper .featured-content .featured-title h3,
+.tm_coverimgbox_wrapper .featured-content .featured-desc p,
+.tm_coverimgbox_wrapper .featured-content .ttm-footer a,
+.sidebar .widget.widget-search .search-form .btn[type="submit"] i,
+.ttm-tabs.ttm-tab-style-02 ul.tabs li.active a,
+.ttm-tabs.ttm-tab-style-02 ul.tabs li:hover a,
+.slick_slider.slick-arrows-style1 .slick-prev:hover,
+.slick_slider.slick-arrows-style1 .slick-next:hover,
+.page-title-heading h2,
+.featured-icon-box.style2 .featured-title h3,
+.featured-imagebox-portfolio.style1
+  .ttm-footer
+  .ttm-btn.ttm-btn-color-white:hover,
+.featured-imagebox-portfolio.style4.active
+  .ttm-footer
+  .ttm-btn.ttm-btn-color-white:hover,
+.featured-imagebox-portfolio.style5 .featured-title h3 a,
+.ttm-bgcolor-darkgrey .section-title.style2 .title-desc,
+.ttm-bgcolor-skincolor .section-title.style2 .title-desc,
+.ttm-highlight-fid-style1,
+.header_btn a:hover,
+.ttm-bgcolor-skincolor .ttm-bgcolor-grey p,
+.widget.contact-widget .featured-title h3,
+.ttm-team-member-content .social-icons.square li a:hover i,
+.ttm-btn.btn-inline.ttm-btn-color-darkgrey,
+.ttm-header-style-03 .header_btn a:hover,
+.featured-icon-box.style4 .featured-title h3,
+.breadcrumb-wrapper-inner a i,
+.breadcrumb-wrapper span.ttm-bread-sep,
+.featured-icon-box.style3 .featured-title h3,
+.featured-imagebox-portfolio.style4:hover .featured-desc p,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-darkgrey:hover,
+.widget .tagcloud a:hover,
+.featured-imagebox-portfolio.style2.active .featured-desc p,
+.featured-imagebox-portfolio.style2:hover .featured-desc p,
+.ttm-btn-style-border.ttm-btn-color-skincolor:hover,
+.header_search a,
+.header_cart .button-cart,
+.footer .social-icons li > a i,
+.pagination-block .page-numbers:hover,
+.footer .social-icons li > a:hover i,
+.pagination-block .page-numbers.current {
+  color: #fff;
+}
+.ttm-bgcolor-darkgrey .featured-icon-box .featured-desc p,
+.ttm-bgcolor-darkgrey .title-desc p,
+.ttm-fid-view-circle-progress .ttm-fid-title span,
+.ttm-bgcolor-darkgrey .section-title p,
+.copyright p,
+.second-footer .widget-area .widget .textwidget.widget-text p,
+.first-footer p {
+  color: rgba(255, 255, 255, 0.65);
+}
+.ttm-bgcolor-darkgrey span.ttm-underline-strong,
+.ttm-bgcolor-skincolor .ttm-bgcolor-darkgrey p,
+.featured-imagebox-portfolio.style4 .featured-desc p,
+.featured-imagebox-portfolio.style1 .featured-desc p {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.ttm-bgcolor-skincolor p,
+.ttm-bgcolor-skincolor span,
+.ttm-bgcolor-skincolor i,
+.ttm-bgcolor-darkgrey i,
+.testimonials.ttm-testimonial-box-view-style1 .testimonial-content blockquote,
+.footer .widget ul.widget_contact_wrapper li,
+.footer .copyright,
+.ttm-bgcolor-skincolor .testimonials-info .testimonial-caption label,
+.ttm-bgcolor-darkgrey .testimonials-info .testimonial-caption label,
+.ttm-bgcolor-skincolor
+  .testimonials-info
+  .testimonials
+  .testimonial-content
+  blockquote,
+.ttm-bgcolor-darkgrey
+  .testimonials-info
+  .testimonials
+  .testimonial-content
+  blockquote {
+  color: rgba(255, 255, 255, 0.85);
+}
+.ttm-bgcolor-skincolor p,
+.ttm-bgcolor-skincolor span,
+.ttm-bgcolor-skincolor i {
+  color: rgba(255, 255, 255, 0.95);
+}
+
+/** White-bg-color **/
+.ttm-bgcolor-white,
+.ttm-bgcolor-white > .ttm-bg-layer,
+.ttm-bgcolor-white > .ttm-bg-layer > .ttm-col-wrapper-bg-layer-inner,
+.ttm-icon_element-fill.ttm-icon_element-color-white,
+.ttm-bgcolor-darkgrey .slick_slider.slick-arrows-style3 .slick-arrow:hover,
+.ttm-bgcolor-skincolor .slick_slider.slick-arrows-style3 .slick-arrow:hover,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-white:hover,
+.section-title.style2 .title-desc .ttm-underline-strong:before,
+.ttm-btn-style-fill.ttm-btn-color-white,
+.ttm-btn.ttm-btn-style-border.ttm-btn-shape-squar.ttm-btn.ttm-btn-color-grey:hover,
+.ttm-icon_element-fill.ttm-icon_element-color-white,
+.ttm-bgcolor-skincolor .heading-seperator span:before,
+.first-footer .newsletter-form p button:hover,
+.ttm-progress-bar .progress-bar.progress-bar-color-bar_white,
+.progress-bar-color-bar_white {
+  background-color: #fff;
+}
+
+/** White-border-color **/
+.ttm-bgcolor-darkgrey > .sep_holder .sep_line,
+.ttm-bgcolor-skincolor > .sep_holder .sep_line {
+  border-color: rgba(255, 255, 255, 0.06);
+}
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-white,
+.ttm-btn-style-border.ttm-btn-color-white.ttm-btn:hover:before,
+.ttm-btn-style-border.ttm-btn-color-white.ttm-btn:hover:after,
+.featured-imagebox-portfolio.style1
+  .ttm-btn.ttm-btn-style-border.ttm-btn-color-darkgrey:hover:before,
+.featured-imagebox-portfolio.style1
+  .ttm-btn.ttm-btn-style-border.ttm-btn-color-darkgrey:hover:after,
+.ttm-icon.ttm-icon_element-border.ttm-icon_element-color-white {
+  border-color: #fff;
+}
+.ttm-bgcolor-skincolor .ttm-bgcolor-darkgrey {
+  background-color: #292929;
+  font-family: "Roboto", Sans-serif;
+}
+
+/** 4.Grey-color **/
+.ttm-bgcolor-grey,
+.ttm-bgcolor-grey > .ttm-bg-layer,
+.ttm-bgcolor-grey > .ttm-bg-layer > .ttm-col-wrapper-bg-layer-inner,
+.ttm-icon_element-fill.ttm-icon_element-color-grey,
+.ttm-team-member-single-content .ttm-social-links-wrapper ul li a,
+.header_search #search_query_top,
+.widget.widget-download ul li,
+.sidebar .widget-title,
+.comment-body,
+.ttm-single-product-details ul.tabs li a,
+.coupon_toggle .coupon_code,
+.checkout #payment {
+  background-color: #f7f7f7;
+}
+.ttm-icon.ttm-icon_element-border.ttm-icon_element-color-grey {
+  border-color: #f7f7f7;
+}
+.comment-body:after {
+  color: #f7f7f7;
+}
+.ttm-bgcolor-grey.ttm-textcolor-darkgrey p {
+  color: #686868;
+}
+.ttm-icon.ttm-icon_element-fill.ttm-icon_element-color-grey {
+  color: inherit;
+}
+.ttm-btn.ttm-btn-style-border.ttm-btn-shape-squar.ttm-btn.ttm-btn-color-grey {
+  border-color: rgba(255, 255, 255, 0.6) !important;
+  color: rgba(255, 255, 255, 0.6);
+}
+.ttm-btn.ttm-btn-style-border.ttm-btn-shape-squar.ttm-btn.ttm-btn-color-grey:before,
+.ttm-btn.ttm-btn-style-border.ttm-btn-shape-squar.ttm-btn.ttm-btn-color-grey:after {
+  border-color: rgba(255, 255, 255, 0.6);
+}
+
+.ttm-btn.ttm-btn-style-border.ttm-btn-shape-squar.ttm-btn.ttm-btn-color-grey:hover {
+  color: #323232;
+}
+.ttm-bgcolor-darkgrey span,
+.ttm-bgcolor-darkgrey p {
+  color: #b3b3b3;
+}
