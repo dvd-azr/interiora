@@ -12688,7 +12688,8 @@ u0(function (g) {
         g(".twentytwenty-container[data-orientation='vertical']").twentytwenty({
           default_offset_pct: 0.3,
           orientation: "vertical",
-        }));
+        }),
+        g(".twentytwenty-container").twentytwenty());
     }),
     g(".slick_slider").slick({
       speed: 1e3,
