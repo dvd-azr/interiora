@@ -49,7 +49,7 @@
 @import url("./_partials/_color.css");
 
 /* Pre-loader */
-@import url("./_partials/_preloader.css");
+@import url("/_partials/_preloader.css");
 
 /*  SocialIcon / TooltipTop */
 @import url("./_partials/_social-icon.css");
