@@ -41,80 +41,80 @@
 **/
 
 /* General */
-@import url("./partials/_general.css");
+@import url("./partials/general.css");
 /* Spacing */
-@import url("./partials/_spacing.css");
+@import url("./partials/spacing.css");
 
 /* Color */
-@import url("./partials/_color.css");
+@import url("./partials/color.css");
 
 /* Pre-loader */
-@import url("./partials/_preloader.css");
+@import url("./partials/preloader.css");
 
 /*  SocialIcon / TooltipTop */
-@import url("./partials/_social-icon.css");
+@import url("./partials/social-icon.css");
 
 /*  Slick_dots/arrows */
-@import url("./partials/_slick_dots.css");
+@import url("./partials/slick_dots.css");
 
 /*  TopBar */
-@import url("./partials/_topbar.css");
+@import url("./partials/topbar.css");
 
 /*  Header */
 
 /*  Header */
-@import url("./partials/_header.css");
+@import url("./partials/header.css");
 
 /* Footer */
-@import url("./partials/_footer.css");
+@import url("./partials/footer.css");
 
 /* GoTop BUtton */
-@import url("./partials/_totop.css");
+@import url("./partials/totop.css");
 
 /* Page-Title-Row */
-@import url("./partials/_page-title-row.css");
+@import url("./partials/page-title-row.css");
 
 /* Inner-Pages */
 
 /* single_team
 /* --------------------------------------- */
-/* @import url("./partials/pages/_single_team.css"); */
+/* @import url("./partials/pages/single_team.css"); */
 
 /* services-single
 /* --------------------------------------- */
-/* @import url("./partials/pages/service/_services_single.css"); */
+/* @import url("./partials/pages/service/services_single.css"); */
 
 /*  single_portfolio
 /* --------------------------------------- */
-/* @import url("./partials/pages/project/_single_portfolio.css"); */
+/* @import url("./partials/pages/project/single_portfolio.css"); */
 
 /* --------------------------------------- */
 /*  portfolio-single  
 /* --------------------------------------- */
-/* @import url("./partials/pages/project/_portfolio_single.css"); */
+/* @import url("./partials/pages/project/portfolio_single.css"); */
 
 /*  Classic_Blog
 /* --------------------------------------- */
-/* @import url("./partials/pages/blog/_classic_blog.css"); */
+/* @import url("./partials/pages/blog/classic_blog.css"); */
 
 /*  Single_Blog
 /* --------------------------------------- */
-/* @import url("./partials/pages/blog/_single_blog.css"); */
+/* @import url("./partials/pages/blog/single_blog.css"); */
 
 /*blog-comment*/
-/* @import url("./partials/pages/blog/_blog_comment.css"); */
+/* @import url("./partials/pages/blog/blog_comment.css"); */
 
 /* twentytwenty
 /* --------------------------------------- */
-/* @import url("./partials/_twentytwenty.css"); */
+/* @import url("./partials/twentytwenty.css"); */
 
 /* Sliders | tada-img-single
 /* --------------------------------------- */
-@import url("./partials/_tada_img_single.css");
+@import url("./partials/tada_img_single.css");
 
 /*  Error_page
 /* --------------------------------------- */
-@import url("./partials/pages/_error_page.css");
+@import url("./partials/pages/error_page.css");
 /*  Map
 /* --------------------------------------- */
 #map {
