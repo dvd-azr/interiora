@@ -14,9 +14,9 @@
 /* Template */
 
 /* General */
-@import url("./partials/_general.css");
+@import url("/partials/_general.css");
 /* Spacing */
-@import url("./partials/_spacing.css");
+@import url("/partials/_spacing.css");
 
 @import url("./shortcodes.css");
 @import url("./main.css");
