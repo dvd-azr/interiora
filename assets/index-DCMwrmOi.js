@@ -13937,12 +13937,12 @@ function p0() {
                   children: [
                     c.jsx("img", {
                       className: "img-fluid",
-                      src: "images/compare/after-img-one.jpg",
+                      src: "./images/compare/after-img-one.jpg",
                       alt: "after",
                     }),
                     c.jsx("img", {
                       className: "img-fluid",
-                      src: "images/compare/before-img-one.jpg",
+                      src: "./images/compare/before-img-one.jpg",
                       alt: "before",
                     }),
                   ],
