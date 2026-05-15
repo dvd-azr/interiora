@@ -8,7 +8,7 @@
 }
 section.error-404 {
   padding: 215px 0 160px;
-  background-image: url(/images/error-bg.jpg);
+  background-image: url(./images/error-bg.jpg);
   background-position: center top;
   background-size: cover;
   background-repeat: no-repeat;

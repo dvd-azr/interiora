@@ -12,9 +12,6 @@
 @import url("../libs/revolution/css/rs6.css");
 
 /* Template */
-
-@import url("./partials/preloader.css");
-
 @import url("./shortcodes.css");
 @import url("./main.css");
 @import url("./megamenu.css");
