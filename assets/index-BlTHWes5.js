@@ -13895,10 +13895,6 @@ function b0() {
       os(function () {
         os(".twentytwenty-container").twentytwenty();
       });
-      os(document).ready(function () {
-        (console.log(os(".twentytwenty-container")),
-          os(".twentytwenty-container").twentytwenty());
-      });
     }, []),
     c.jsx("section", {
       className: "ttm-row about-section clearfix",
