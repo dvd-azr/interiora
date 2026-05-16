@@ -13889,13 +13889,14 @@ function p0() {
   });
 }
 const { $: os } = window;
+const el = os(".twentytwenty-container");
 function b0() {
   return (
     xt.useEffect(() => {
       os(function () {
-        os(".twentytwenty-container").twentytwenty();
+        el.twentytwenty();
       });
-    }, []),
+    }, [el]),
     c.jsx("section", {
       className: "ttm-row about-section clearfix",
       children: c.jsxs("div", {
